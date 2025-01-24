@@ -2219,7 +2219,7 @@ ul.gradient-list {
 	font-weight: 500;
 	margin-right: 15px;
 	background: #252525;
-	font-family: "Oswald", sans-serif;
+	font-family: "Caveat", cursive;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
@@ -3021,7 +3021,7 @@ ul.gradient-list {
 		color: #151515;
 		border-bottom: 1px solid #151515;
 		font-weight: 500;
-		font-family: "Oswald", sans-serif;
+		font-family: "Caveat", cursive;
 		font-size: 15px;
 	}
 	.offcanvas-menu-wrapper .slicknav_nav .slicknav_row:hover {
@@ -3167,8 +3167,7 @@ ul.gradient-list {
 		color: #151515;
 		border-bottom: 1px solid #151515;
 		font-weight: 500;
-		font-family: "Oswald", sans-serif;
-		font-size: 15px;
+		font-family: "Caveat", cursive;
 	}
 	.offcanvas-menu-wrapper .slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
