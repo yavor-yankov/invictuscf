@@ -35,7 +35,7 @@
 html,
 body {
 	height: 100%;
-	
+	font-family: "Caveat", serif;
   	font-optical-sizing: auto;
 	font-style: normal;
 	-webkit-font-smoothing: antialiased;
@@ -81,7 +81,7 @@ h6 {
 }
 
 p {
-	font-size: 14px;
+	font-size: 24px;
 	
   	font-optical-sizing: auto;
 	font-style: normal;
@@ -625,13 +625,13 @@ ol {
 
 .cs-item h4 {
 	color: #ffffff;
-	font-size: 28px;
+	font-size: 32px;
 	font-weight: 600;
 	margin-top: 24px;
 	margin-bottom: 16px;
 }
 .cs-item p {
-	font-size: 14px;
+	font-size: 24px;
 }
 
 /*---------------------
@@ -1190,7 +1190,7 @@ ol {
 }
 
 .fs-widget ul li a {
-	font-size: 14px;
+	font-size: 22px;
 	color: #c4c4c4;
 	line-height: 30px;
 }
