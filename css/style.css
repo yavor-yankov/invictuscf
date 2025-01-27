@@ -35,7 +35,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "Caveat", cursive;
+	
   	font-optical-sizing: auto;
 	font-style: normal;
 	-webkit-font-smoothing: antialiased;
@@ -51,7 +51,7 @@ h6 {
 	margin: 0;
 	color: #111111;
 	font-weight: 400;
-	font-family: "Caveat", cursive;
+	
   	font-optical-sizing: auto;
 	font-style: normal;
 }
@@ -82,7 +82,7 @@ h6 {
 
 p {
 	font-size: 14px;
-	font-family: "Caveat", cursive;
+	
   	font-optical-sizing: auto;
 	font-style: normal;
 	color: #a9a9a9;
@@ -420,7 +420,7 @@ ol {
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-family: "Caveat", cursive;
+	
   	font-optical-sizing: auto;
 	font-style: normal;
 	padding: 10px 0px;
@@ -2219,7 +2219,7 @@ ul.gradient-list {
 	font-weight: 500;
 	margin-right: 15px;
 	background: #252525;
-	font-family: "Caveat", cursive;
+	
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
@@ -3021,7 +3021,7 @@ ul.gradient-list {
 		color: #151515;
 		border-bottom: 1px solid #151515;
 		font-weight: 500;
-		font-family: "Caveat", cursive;
+		
 		font-size: 15px;
 	}
 	.offcanvas-menu-wrapper .slicknav_nav .slicknav_row:hover {
@@ -3167,7 +3167,7 @@ ul.gradient-list {
 		color: #151515;
 		border-bottom: 1px solid #151515;
 		font-weight: 500;
-		font-family: "Caveat", cursive;
+		
 	}
 	.offcanvas-menu-wrapper .slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
