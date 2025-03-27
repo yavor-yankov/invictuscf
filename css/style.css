@@ -40,6 +40,7 @@ body {
 	font-style: normal;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	scroll-behavior: smooth;
 }
 
 h1,
@@ -981,6 +982,9 @@ ol {
 
 .team-section.team-page .ts-item .tt_social a:last-child {
 	margin-right: 0;
+}
+.team-section .row p {
+	margin-top: 30px;
 }
 
 .team-title .section-title {
